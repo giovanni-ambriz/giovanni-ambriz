@@ -36,3 +36,4 @@ Building new projects while staying up-to-date with the latest technologies.
 
 - [LinkedIn](https://www.linkedin.com/in/giovanni-ambriz)
 - [GitHub](https://github.com/giovanni-ambriz)
+- [Download my CV](https://github.com/giovanni-ambriz/giovanni-ambriz/blob/main/Giovanni%20A%20CV.pdf)

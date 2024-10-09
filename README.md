@@ -13,7 +13,7 @@ When I'm not coding, you can find me enjoying the ourdoors, hiking, snowboarding
 🌍 Projects
 ---
 
-Move Note
+Move Note -
 A fitness tracking application where users can log sessions for different activities, including duration, distance, and notes. It includes functionality to add, view, and manage sessions for multiple activities. Developed using React, Tanstack Query, Knex.js, and TypeScript, SQLite, Knex. This app highlights my ability to handle user data and implement CRUD operations in a full stack app.
 
 💼 Tech Stack
